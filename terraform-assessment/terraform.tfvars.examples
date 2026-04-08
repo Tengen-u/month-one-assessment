@@ -1,0 +1,6 @@
+aws_region            = "eu-north-1"
+your_Ip               = "120.211.59.97/32"
+key_name              = "tech_corpkey"
+instance_type_bastion = "t3.micro"
+instance_type_web     = "t3.micro"
+instance_type_db      = "t3.small"
